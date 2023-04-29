@@ -1,5 +1,5 @@
 # Team name: TeamXD
-# team members: Weihao Liu, Bokang Zhou, Zhicheng Bai, Zixun Peng
+team members: Weihao Liu, Bokang Zhou, Zhicheng Bai, Zixun Peng
 
 
 
