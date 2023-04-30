@@ -1,3 +1,4 @@
+import logging
 import random
 
 def fuzz_abs():
